@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.list{
+    padding: 8px;
+    border: 0.5px solid rgb(114, 112, 112);
+    border: none;
+    cursor: pointer;
+    
+   
+
+}
+.list:hover{
+    background: rgb(100, 99, 99);
+    border: block;
+    border-radius: 25%;
+}
+
+
