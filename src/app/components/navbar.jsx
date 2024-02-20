@@ -1,11 +1,17 @@
-import React from 'react'
+import React from "react";
+import { MdWavingHand } from "react-icons/md";
 
 const navbar = () => {
   return (
     <div className="top row-span-2  flex justify-between px-4 items-center text-white">
       <div className="logo flex items-center flex-col justify-center">
         <div className="w-[100%] flex text-xl">Hello,</div>
-        <div className="text-2xl font-bold">Dr. Colter!</div>
+        <div className="text-2xl flex font-bold">
+          Dr. Colter!{" "}
+          <div className="ml-2 text-yellow-300">
+            <MdWavingHand />
+          </div>
+        </div>
       </div>
       <div className="search flex items-center">
         <div className="flex items-center">
@@ -64,7 +70,7 @@ const navbar = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default navbar
+export default navbar;
