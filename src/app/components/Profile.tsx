@@ -16,7 +16,7 @@ const Profile = () => {
         >
           <div className="mt-3 w-fit mx-auto rounded-full">
   <Image
-    src="https://image.kpopmap.com/2020/10/kim-soohyun-handsome-actor-gold-medalist.jpg"
+    src="https://randomuser.me/api/portraits/men/1.jpg"
     className="rounded-full w-28 h-28 border-4 border-white"
     alt="profile picture"
     width={112} // Set the width and height attributes as required
@@ -132,7 +132,7 @@ const Profile = () => {
                   </p>
                 </div>
                 <Image
-  src="https://image.kpopmap.com/2020/10/kim-soohyun-handsome-actor-gold-medalist.jpg"
+  src="https://randomuser.me/api/portraits/men/1.jpg"
   alt="Other User Avatar"
   className="w-8 h-8 rounded-full ml-3"
   width={32} // Set the width and height attributes as required

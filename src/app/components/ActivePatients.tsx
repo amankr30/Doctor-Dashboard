@@ -47,7 +47,7 @@ const ActivePatients = () => {
                 <div className="profile">
                   <Image
                     className="w-10 h-10 rounded-full ring-2 ring-teal-500 dark:ring-teal-400"
-                    src="https://image.kpopmap.com/2020/10/kim-soohyun-handsome-actor-gold-medalist.jpg"
+                    src="https://th.bing.com/th/id/R.4018ed13207d69229e298908e6b46149?rik=MM%2bBaS525Ti2Yg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-GQ8cGH8azEE%2fUVG4hjpTJcI%2fAAAAAAAALg4%2fYi6SyEe6R4o%2fs1600%2ftumblr_mblpmm4TZ31qm7345o1_1280.jpeg&ehk=VyXQSVEK7KRXAQh3ExQd%2bqMwiHzHPR7KjZXLvqTFIsI%3d&risl=&pid=ImgRaw&r=0"
                     alt="Bordered avatar"
                     width={40}
                     height={40}

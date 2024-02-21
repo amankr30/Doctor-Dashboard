@@ -40,7 +40,7 @@ const sidebar = () => {
         <div className="down flex flex-col items-center justify-between">
         <div className="pics py-5 cursor-pointer">
   <Image
-    src="https://image.kpopmap.com/2020/10/kim-soohyun-handsome-actor-gold-medalist.jpg"
+    src="https://randomuser.me/api/portraits/men/1.jpg"
     className="object-cover object-right w-10 h-10 rounded-full"
     alt="person"
     width={40} // Set the width and height attributes as required
